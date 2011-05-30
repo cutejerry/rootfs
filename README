@@ -1,0 +1,3 @@
+rootfs.tar.gz --- dir tree
+mkfs.jffs2    --- a tool for mking jffs2
+rootfs.jffs2  --- jffs2 rootfs image
